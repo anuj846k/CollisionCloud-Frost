@@ -4,7 +4,7 @@ _A calm, clear journey from raw CCTV footage to a complete accident reconstructi
 
 <!-- HERO IMAGE -->
 
-![CollisionCloud Hero](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/intro.png)
+![CollisionCloud Hero](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/intro.png)
 
 ---
 
@@ -58,7 +58,7 @@ Each system component exists to support one of these steps.
 
 The whole flow of CollisionCloud looks like this:
 
-![CollisionCloud Flow](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/flow.png)
+![CollisionCloud Flow](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/flow.png)
 
 ---
 
@@ -66,7 +66,7 @@ The whole flow of CollisionCloud looks like this:
 
 The journey begins when a user logs into **CollisionCloud**.
 
-![CollisionCloud Step1](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/step1.png)
+![CollisionCloud Step1](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/step1.png)
 
 Authentication ensures that only authorized users can upload evidence and generate reports. Once logged in, the user creates a **project**, which represents a single accident case.
 
@@ -87,7 +87,7 @@ This keeps accident cases clearly separated and traceable.
 
 The user uploads the CCTV video associated with the accident.
 
-![CollisionCloud Step2](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/step2.jpeg)
+![CollisionCloud Step2](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/step2.jpeg)
 
 At this stage:
 
@@ -756,9 +756,9 @@ Kestra allows CollisionCloud to behave like a **real production system**, even w
 
 **Execution Results** :
 
-![CollisionCloud Kestra 1](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/kestra1.jpeg)
+![CollisionCloud Kestra 1](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/kestra1.jpeg)
 
-![CollisionCloud Kestra 2](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/kestra2.jpeg)
+![CollisionCloud Kestra 2](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/kestra2.jpeg)
 
 ## 🤖 Step 7: Explaining the Accident in Human Language
 
@@ -808,11 +808,11 @@ Audio outputs are especially useful during quick reviews or presentations.
 
 **English Audio Report Sample**
 
-[Play audio](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/audio_en_e232695e-08fb-44e1-a38d-5f6bf481d93c_20251214_112505.mp3)
+[Play audio](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/audio_en_e232695e-08fb-44e1-a38d-5f6bf481d93c_20251214_112505.mp3)
 
 **Hindi Audio Report Sample**
 
-[Play audio](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/audio_hi_58b5c1de-0ce4-433d-93dc-2fa2af9961fd_20251214_144922.mp3)
+[Play audio](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/audio_hi_58b5c1de-0ce4-433d-93dc-2fa2af9961fd_20251214_144922.mp3)
 
 ---
 
@@ -821,7 +821,7 @@ Audio outputs are especially useful during quick reviews or presentations.
 Once analysis and explanations are complete, CollisionCloud compiles everything into a **professional PDF report**.
 
 📄 **Project Report**  
-[View PDF](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/report_e232695e-08fb-44e1-a38d-5f6bf481d93c_20251214_112406.pdf)
+[View PDF](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/report_e232695e-08fb-44e1-a38d-5f6bf481d93c_20251214_112406.pdf)
 
 
 The report acts as a single source of truth and includes:
@@ -846,7 +846,7 @@ This report can be:
 
 Transparency is a core principle of CollisionCloud. For this reason, the system generates multiple visual artifacts that support the final conclusions.
 
-![CollisionCloud Final](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/final.jpeg)
+![CollisionCloud Final](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/final.jpeg)
 
 ### Vehicle Trajectories
 
@@ -878,7 +878,7 @@ These visuals ensure that conclusions are **visible, verifiable, and explainable
 
 CollisionCloud was built by a two-member team with a clear division of responsibilities, ensuring focus, ownership, and depth in each part of the system.
 
-![CollisionCloud Final](https://raw.githubusercontent.com/anuj846k/CollisionCloud/main/accident-frontend/public/team.png)
+![CollisionCloud Final](https://raw.githubusercontent.com/anuj846k/CollisionCloud-Frost/main/accident-frontend/public/team.png)
 
 ### Team Members
 
